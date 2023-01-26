@@ -1,5 +1,5 @@
 ---
-title: Hello, this is my first blog
+title: 本博客是基于Hexo
 ---
 
 > A , simple & powerful blog framework, powered by [Node.js](https://nodejs.org). Here is the template of it.
